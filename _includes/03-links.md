@@ -1,1 +1,1 @@
-[GitHub Repository List] (https://github.com/github/training-kit)
+[GitHub](http://github.com)
