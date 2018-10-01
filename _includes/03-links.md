@@ -1,1 +1,1 @@
-[GitHub Profile] (https://github.com/LoganHeath)
+[GitHub Repository List] (https://github.com/github/training-kit)
