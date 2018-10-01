@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Thinking Emoji](https://mbtskoudsalg.com/images/thinking-emoji-png-5.png)
